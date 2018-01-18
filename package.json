@@ -18,5 +18,5 @@
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/tanmancan/media-server.git"
-  },
+  }
 }
