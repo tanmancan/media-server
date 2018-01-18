@@ -14,5 +14,9 @@
     "serve": "http-server"
   },
   "author": "Tanveer Karim <contact@tkarimdesign.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tanmancan/media-server.git"
+  },
 }
