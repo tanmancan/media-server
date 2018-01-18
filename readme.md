@@ -35,7 +35,7 @@ In index.html, update the `url` property in `playerConfig` to point to the IP ad
 To just launch the streaming server without a front end interface, launch OBS, strat a stream and then run
 
 ```shell
-$ npm run serve
+$ npm run start
 ```
 
 To run a webserver showing the video, a node server module is included. Run it  from the root project directory.
