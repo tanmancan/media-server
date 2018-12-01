@@ -32,7 +32,7 @@ In index.html, update the `url` property in `playerConfig` to point to the IP ad
 
 ## Stream media and serve via http
 
-To just launch the streaming server without a front end interface, launch OBS, strat a stream and then run
+To just launch the streaming server without a front end interface, launch OBS, start a stream and then run
 
 ```shell
 $ npm run start
